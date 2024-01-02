@@ -14,7 +14,7 @@ theme = "nightfall"
     url = "about"
 
 [params]
-user = "hello"
+user = "dxh"
 hostname = "gohugo.io"
     [params.author]
     name = "dxh"  # Website and RSS feed author
