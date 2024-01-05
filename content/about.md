@@ -1,7 +1,8 @@
 ---
 title: "About"
 date: 2024-01-04T17:24:19-05:00
-draft: true
+type: "page"
+draft: false
 ---
 Hugo makes use of a variety of open source projects including:
 
