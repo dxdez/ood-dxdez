@@ -5,9 +5,9 @@ theme = "nightfall"
 
 [menu]
   [[menu.header]]
-    name = "blog"
+    name = "posts"
     weight = 0
-    url = "blog"
+    url = "posts"
   [[menu.header]]
     name = "about"
     weight = 1
@@ -15,7 +15,7 @@ theme = "nightfall"
 
 [params]
 user = "dxh"
-hostname = "gohugo.io"
+hostname = "site.io"
     [params.author]
     name = "dxh"  # Website and RSS feed author
     email = "email@example.com"  # RSS feed email address
@@ -26,14 +26,14 @@ published = true  # Show published data on post page
 [[params.social]]
 key = 0
 name = "github"
-url = "https://github.com/gohugoio"
+url = "https://github.com/dylanxhernandez"
 
 [[params.social]]
 key = 1
 name = "linkedin"
-url = "https://www.example.com"
+url = "https://linkedin.com/in/dxhernandez/"
 
 [[params.social]]
 key = 2
 name = "email"
-url = "mailto:email@example.com"
+url = "mailto:dylan.x.h.developer@gmail.com"
