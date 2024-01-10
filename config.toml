@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'The DXH Notes'
-theme = "nightfall"
+theme = "dxh-blades"
 
 [menu]
   [[menu.header]]
