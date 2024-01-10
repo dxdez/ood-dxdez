@@ -1,0 +1,9 @@
+name = "dxh-blades"
+description = "A minimal dark theme"
+tags = ["minimal", "dark", "blog", "sass", "multilingual"]
+features = ["blog", "sass", "dark", "multilingual"]
+min_version = "0.0.0"
+
+[author]
+name = "Dylan Hernandez"
+homepage = "#"

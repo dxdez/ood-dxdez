@@ -4,7 +4,7 @@ title: 'About'
 type: 'page'
 draft: false
 ---
-Welcome to my digital realm! I'm Dylan, a seasoned software engineer and full-stack developer with an insatiable curiosity that propels me through the diverse landscapes of programming languages, cutting-edge frameworks, and the intriguing realms of computer science.
+Welcome to my digital site! I'm Dylan, a seasoned software engineer and full-stack developer with an insatiable curiosity that propels me through the diverse landscapes of programming languages, cutting-edge frameworks, and the intriguing realms of computer science.
 
 Within this virtual workshop, I've meticulously crafted a custom Hugo site, serving as both a testament to my journey of continuous learning and a repository for the wealth of knowledge I accumulate along the way. This site is more than just a digital presence; it's an extension of my mind—a meticulously organized space where I capture insights, document challenges, and explore the nuances of programming.
 
