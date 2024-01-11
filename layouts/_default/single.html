@@ -20,7 +20,7 @@
             {{ if .Site.Params.published | default true }}
                 <dt>{{ i18n "published" }}</dt>
                 {{ $formattedDate := .Date.Format "2006-01-02" }}
-                <dd><time datetime="{{ $formattedDate }}">{{ .Date }}</time></dd>
+                <dd><time datetime="{{ $formattedDate }}">{{ $formattedDate }}</time></dd>
             {{ end }}
             {{ if .Site.Params.readingTime | default true }}
                 <dt>{{ i18n "reading_time" }}</dt>
