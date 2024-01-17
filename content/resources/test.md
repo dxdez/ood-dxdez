@@ -1,7 +1,7 @@
 ---
 layout: 'resources'
-title: 'Resources'
+title: 'Test'
 type: 'page'
 draft: false
 ---
-Resources page
+Test page
