@@ -1,5 +1,5 @@
 ---
-layout: 'about'
+layout: 'basic'
 title: 'About'
 type: 'page'
 draft: false
