@@ -1,6 +1,6 @@
 ---
 layout: 'basic'
-title: 'Test'
+title: 'Blank'
 type: 'page'
 draft: false
 ---
