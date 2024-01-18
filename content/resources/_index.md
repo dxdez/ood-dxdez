@@ -1,5 +1,5 @@
 ---
-layout: 'resources'
+layout: 'basic'
 title: 'Resources'
 type: 'page'
 draft: false
