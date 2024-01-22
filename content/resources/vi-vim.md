@@ -20,4 +20,6 @@ Explore a range of plugins, tutorials, and configurations to boost productivity,
 
 [Neovim Config with Lua](https://vonheikemen.github.io/devlog/tools/configuring-neovim-using-lua/ "Neovim Config with Lua") - Neovim is a tool both powerful and extensible. With some effort it can do more than just modify text in a file. This guide extends the configuration of neovim using lua. 
 
+[SFDX Tools for Neovim](https://github.com/LeviticusNelson/sfdx.nvim "SFDX Tools for Neovim") - A plugin to enable the salesforce cli developer experience for neovim. Instead of running a command through the termainal, it can run directly through neovim.
+
 ------
