@@ -12,4 +12,5 @@ Explore open source projects, insightful tutorials, comprehensive reference docu
 
 [Virtual Machine Resources]({{< ref "/resources/virtual-machine" >}} "Virtual Machine Resources")
 
+[General Linux Resources]({{< ref "/resources/linux-general" >}} "General Linux Resources")
 
