@@ -14,3 +14,5 @@ Explore open source projects, insightful tutorials, comprehensive reference docu
 
 [General Linux Resources]({{< ref "/resources/linux-general" >}} "General Linux Resources")
 
+[Python Resources]({{< ref "/resources/python" >}} "Python Resources")
+
