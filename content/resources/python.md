@@ -11,5 +11,11 @@ This page contains various resources and documentation to help with Python progr
 
 [Real Python](https://realpython.com/ "Real Python") - Real Python is blog which contains a variety of articles for building custom solutions in Python which can help with both automation projects or building applications for fun.
 
+[Python Formatter by ExtendsClass](https://extendsclass.com/python-formatter.html "Python Formatter by ExtendsClass") - This is a tool that formats the tab placement and structre of Python code so that it returns in a clean format.
+
+[Python Algorithms Tutorial](https://www.youtube.com/watch?v=fW_OS3LGB9Q "Python Algorithms Tutorial") - An introduction to using algorithms in Python
+
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/ "Automate the Boring Stuff with Python") - A book that offers resources in automating a variety of programs and tasks using Python
+
 ------
 
