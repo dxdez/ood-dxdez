@@ -16,3 +16,5 @@ Explore open source projects, insightful tutorials, comprehensive reference docu
 
 [Python Resources]({{< ref "/resources/python" >}} "Python Resources")
 
+[GO Resources]({{< ref "/resources/golang" >}} "GO Resources")
+
