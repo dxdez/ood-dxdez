@@ -13,5 +13,7 @@ These resources are for providing guidance in setting up dotfiles and configurat
 
 [Neovim LUA](https://github.com/brainfucksec/neovim-lua/tree/main "Neovim LUA") - A repository for solid configuration of Lua on a Neovim setup. 
 
+[ULauncher Configuration](https://docs.ulauncher.io/en/stable/ "ULauncher Configuration") - The documentation for ULauncher and how to extend and alter the themes of the application.
+
 ------
 
