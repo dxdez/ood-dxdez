@@ -18,3 +18,4 @@ Explore open source projects, insightful tutorials, comprehensive reference docu
 
 [GO Resources]({{< ref "/resources/golang" >}} "GO Resources")
 
+[Dotfiles & Configurations]({{< ref "/resources/dotfiles" >}} "Dotfiles & Configurations")
