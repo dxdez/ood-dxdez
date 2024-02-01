@@ -17,5 +17,7 @@ This page contains various resources and documentation to help with Python progr
 
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/ "Automate the Boring Stuff with Python") - A book that offers resources in automating a variety of programs and tasks using Python
 
+[Qt for Python](https://doc.qt.io/qtforpython-6/index.html "Qt for Python") - The documentation for using the Qt framework in Python; these resources are for constructing GUI applications in Python
+
 ------
 
