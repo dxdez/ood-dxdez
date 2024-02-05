@@ -16,6 +16,8 @@ Explore open source projects, insightful tutorials, comprehensive reference docu
 
 [Python Resources]({{< ref "/resources/python" >}} "Python Resources")
 
+[Docker Resources]({{< ref "/resources/docker" >}} "Docker Resources")
+
 [GO Resources]({{< ref "/resources/golang" >}} "GO Resources")
 
 [Dotfiles & Configurations]({{< ref "/resources/dotfiles" >}} "Dotfiles & Configurations")
