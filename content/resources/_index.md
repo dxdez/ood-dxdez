@@ -16,6 +16,8 @@ Explore open source projects, insightful tutorials, comprehensive reference docu
 
 [Python Resources]({{< ref "/resources/python" >}} "Python Resources")
 
+[Laravel Resources]({{< ref "/resources/laravel" >}} "Laravel Resources")
+
 [Docker Resources]({{< ref "/resources/docker" >}} "Docker Resources")
 
 [GO Resources]({{< ref "/resources/golang" >}} "GO Resources")
