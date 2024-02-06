@@ -15,7 +15,11 @@ This page covers the resources for the Laravel framework. Laravel is a framework
 
 [Laravel with Docker Compose, Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-laravel-nginx-and-mysql-with-docker-compose-on-ubuntu-20-04 "Laravel with Docker Compose, Digital Ocean") - Similar article to the above however this particular one is distributed by Digital Ocean.
 
+[Laravel + Vue E-commerce Site](https://www.youtube.com/watch?v=uyTPbQu0g-E "Laravel + Vue E-commerce Site") - A tutorial on building an e-commerce application using laravel and vue.
 
+[Laravel + Stripe](https://www.youtube.com/watch?v=J13Xe939Bh8 "Laravel + Stripe") - A tutorial on integrating Laravel with Stripe for payments
+
+[Laravel + Docker Starter Project](https://github.com/ishaqadhel/docker-laravel-mysql-nginx-starter/tree/main "Laravel + Docker Starter Project") - A starter template for a laravel project that makes use of docker with nginx and sql services.
 
 ------
 
