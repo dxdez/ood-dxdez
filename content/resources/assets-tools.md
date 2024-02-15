@@ -25,3 +25,15 @@ This page contains resources which can be used for the generation of application
 
 ------
 
+[Upstash](https://upstash.com/?utm_source=theo_qstash "Upstash") - Serverless Data Platform
+
+[Axiom](https://axiom.co/ "Axiom") - Data Monitoring, Security and Analytics
+
+[Vercel](https://vercel.com/ "Vercel") - Front-end Cloud Solutions
+
+[Clerk](https://clerk.com/ "Clerk") - User Management Platform
+
+[PlanetScale](https://planetscale.com/ "PlanetScale") - MySQL Platform
+
+------
+
