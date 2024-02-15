@@ -19,5 +19,7 @@ This page provides general resources and guides for using the GO programming lan
 
 [JWT Authentication in Go](https://www.youtube.com/watch?v=ma7rUS_vW9M "JWT Authentication in Go") - A tutorial on using JWT Authentication within the GO programming language.
 
+[TVIEW](https://github.com/rivo/tview "TVIEW") - Rich Interactive Widgets for Terminal UIs; this Go package provides commonly used components for terminal based user interfaces.
+
 ------
 
