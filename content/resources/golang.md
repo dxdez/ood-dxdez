@@ -21,5 +21,11 @@ This page provides general resources and guides for using the GO programming lan
 
 [TVIEW](https://github.com/rivo/tview "TVIEW") - Rich Interactive Widgets for Terminal UIs; this Go package provides commonly used components for terminal based user interfaces.
 
+[Introduction to Go](https://www.golang-book.com/public/pdf/gobook.pdf "Introduction to Go") - A introduction guide by Caleb Doxsey
+
+[GOLANG Handbook by FreeCodeCamp](https://www.freecodecamp.org/news/learn-golang-handbook/ "GOLANG Handbook by FreeCodeCamp") - A collection of guides and tutorials by FreeCodeCamp
+
+[Applied Go](https://appliedgo.net/ "Applied Go") - A blog with various tutorials and projects for improving in GO
+
 ------
 
