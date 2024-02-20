@@ -31,5 +31,7 @@ This page provides general resources and guides for using the GO programming lan
 
 [Learn GO with Tests](https://quii.gitbook.io/learn-go-with-tests/ "Learn GO with Tests") - A tutorial series for building an application in GO with automated unit tests
 
+[Markdown Parser](https://github.com/gomarkdown/markdown "Markdown Parser") - A package for GO designed to render html based on provided markdown. This can be used to make a Notion/Obsidian clone
+
 ------
 
