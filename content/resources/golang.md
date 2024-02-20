@@ -27,5 +27,9 @@ This page provides general resources and guides for using the GO programming lan
 
 [Applied Go](https://appliedgo.net/ "Applied Go") - A blog with various tutorials and projects for improving in GO
 
+[Gophercises](https://gophercises.com/ "Gophercises") - A collection of tutorials and projects for improving in GO which includes items such as a URL shortener and a variety of games
+
+[Learn GO with Tests](https://quii.gitbook.io/learn-go-with-tests/ "Learn GO with Tests") - A tutorial series for building an application in GO with automated unit tests
+
 ------
 
