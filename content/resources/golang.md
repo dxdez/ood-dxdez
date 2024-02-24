@@ -33,5 +33,12 @@ This page provides general resources and guides for using the GO programming lan
 
 [Markdown Parser](https://github.com/gomarkdown/markdown "Markdown Parser") - A package for GO designed to render html based on provided markdown. This can be used to make a Notion/Obsidian clone
 
+[Go 101](https://go101.org/ "Go 101") - an up-to-date knowledge base for Go programming self learning
+
 ------
 
+Additional projects to look at for contribution and study:
+
+[EsBuild](https://github.com/evanw/esbuild "EsBuild")
+
+[Benthos](https://github.com/benthosdev/benthos "Benthos")
