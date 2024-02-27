@@ -11,6 +11,12 @@ This page provides general resources and guides for using the GO programming lan
 
 [GO By Example](https://gobyexample.com/ "GO By Example") - A step by step guide in teaching the GO programming language. Simple examples are provided to help the end user develop with Go.
 
+[GO Tour](https://go.dev/tour "GO Tour") - A step by step guide on the basics of GO
+
+[Effective GO](https://go.dev/doc/effective_go "Effective GO") - This document gives tips for writing clear, idiomatic Go code. It augments the language specification, the Tour of Go, and How to Write Go Code, all of which you should read first. 
+
+------
+
 [Marmot](https://github.com/maxpert/marmot "Marmot") - Marmot is a distributed SQLite replicator with leaderless, and eventual consistency. It allows you to build a robust replication between your nodes by building on top of fault-tolerant NATS JetStream.
 
 [Pocketbase](https://pocketbase.io/ "Pocketbase") - An open source, self-hosted alternative to firebase. This allows a quick deployment of a backend for a SaaS project.
