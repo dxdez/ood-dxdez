@@ -17,6 +17,14 @@ This page provides general resources and guides for using the GO programming lan
 
 ------
 
+[Copper Framework Repo](https://github.com/gocopper/copper "Copper Framework Repo") - The Github Repo
+
+[Copper Framework Docs](https://docs.gocopper.dev/ "Copper Framework Docs") - The documentation for the Copper Framework for Go
+
+[ToDo List in Copper](https://blog.logrocket.com/build-web-app-go-copper/#:~:text=We%20have%20successfully%20built%20a,to%20the%20final%20code%20repository. "ToDo List in Copper") - A guide on building a simple todo list in copper
+
+------
+
 [Marmot](https://github.com/maxpert/marmot "Marmot") - Marmot is a distributed SQLite replicator with leaderless, and eventual consistency. It allows you to build a robust replication between your nodes by building on top of fault-tolerant NATS JetStream.
 
 [Pocketbase](https://pocketbase.io/ "Pocketbase") - An open source, self-hosted alternative to firebase. This allows a quick deployment of a backend for a SaaS project.
