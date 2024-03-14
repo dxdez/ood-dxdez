@@ -25,6 +25,8 @@ This page provides general resources and guides for using the GO programming lan
 
 ------
 
+[Go + HTMX Example](https://www.youtube.com/watch?v=F9H6vYelYyU "Go + HTMX Example") - A sample project for building an application using HTMX and GO
+
 [Marmot](https://github.com/maxpert/marmot "Marmot") - Marmot is a distributed SQLite replicator with leaderless, and eventual consistency. It allows you to build a robust replication between your nodes by building on top of fault-tolerant NATS JetStream.
 
 [Pocketbase](https://pocketbase.io/ "Pocketbase") - An open source, self-hosted alternative to firebase. This allows a quick deployment of a backend for a SaaS project.
