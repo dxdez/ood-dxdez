@@ -15,5 +15,7 @@ These resources are for the use of Docker on your system. Resources include basi
 
 [Geeks for Geeks Docker Resource](https://www.geeksforgeeks.org/containerization-using-docker/?ref=lbp "Geeks for Geeks Docker Resource") - Resources provided by Geeks for Geeks on using Docker
 
+[Docker Exec](https://docs.docker.com/reference/cli/docker/container/exec/ "Docker Exec") - A common command; this documentation shows the use of the exec function and running shell commands within Docker
+
 ------
 
