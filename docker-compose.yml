@@ -1,0 +1,8 @@
+services:
+  server:
+      image: klakegg/hugo:0.107.0-ext-alpine
+      command: server --bind 192.168.124.172 --baseURL http://192.168.124.172
+      volumes:
+        - ".:/src"
+      ports:
+        - "1313:1313"
