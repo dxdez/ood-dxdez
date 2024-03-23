@@ -25,6 +25,8 @@ This page provides general resources and guides for using the GO programming lan
 
 ------
 
+[Go + Docker Example](https://www.docker.com/blog/developing-go-apps-docker/ "Go + Docker Example") - A tutorial on adding docker to a GO application
+
 [Go + HTMX Example](https://www.youtube.com/watch?v=F9H6vYelYyU "Go + HTMX Example") - A sample project for building an application using HTMX and GO
 
 [Marmot](https://github.com/maxpert/marmot "Marmot") - Marmot is a distributed SQLite replicator with leaderless, and eventual consistency. It allows you to build a robust replication between your nodes by building on top of fault-tolerant NATS JetStream.
