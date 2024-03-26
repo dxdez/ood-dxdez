@@ -25,6 +25,8 @@ This page provides general resources and guides for using the GO programming lan
 
 ------
 
+[Different approaches to HTTP routing in Go](https://benhoyt.com/writings/go-routing/ "Different approaches to HTTP routing in Go") - A series of different HTTP routing ideas using the standard libraries + tooling in GO.
+
 [Go + Docker Example](https://www.docker.com/blog/developing-go-apps-docker/ "Go + Docker Example") - A tutorial on adding docker to a GO application
 
 [Go + HTMX Example](https://www.youtube.com/watch?v=F9H6vYelYyU "Go + HTMX Example") - A sample project for building an application using HTMX and GO
