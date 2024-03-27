@@ -20,5 +20,7 @@ Elevate your virtualization skills with this curated selection of tutorials, too
 
 [Install KVM on Fedora](https://computingforgeeks.com/how-to-install-kvm-on-fedora/?expand_article=1 "Install KVM on Fedora") - A basic guide on installing KVM/Virsh/Virtual Machine Manager on Fedora based systems
 
+[Virt-Clone manual page](https://linux.die.net/man/1/virt-clone "Virt-Clone manual page") - The manual page for the virt-clone utility
+
 ------
 
