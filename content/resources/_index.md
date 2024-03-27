@@ -20,7 +20,7 @@ Explore open source projects, insightful tutorials, comprehensive reference docu
 
 [Laravel Resources]({{< ref "/resources/laravel" >}} "Laravel Resources")
 
-[Docker Resources]({{< ref "/resources/docker" >}} "Docker Resources")
+[Docker, Hosting and NGINX Resources]({{< ref "/resources/docker" >}} "Docker, Hosting and NGINX Resources")
 
 [GO Resources]({{< ref "/resources/golang" >}} "GO Resources")
 
