@@ -22,5 +22,7 @@ Elevate your virtualization skills with this curated selection of tutorials, too
 
 [Virt-Clone manual page](https://linux.die.net/man/1/virt-clone "Virt-Clone manual page") - The manual page for the virt-clone utility
 
+[How to delete KVM VM guest using virsh command](https://www.cyberciti.biz/faq/howto-linux-delete-a-running-vm-guest-on-kvm/ "How to delete KVM VM guest using virsh command") - A guide on removing old/unused VMs in KVM/Virsh; information includes removing storage and snapshots from the VM as well
+
 ------
 
