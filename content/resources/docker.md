@@ -17,6 +17,8 @@ These resources are for the hosting, the user of NGINX and the use of Docker on 
 
 [Docker Exec](https://docs.docker.com/reference/cli/docker/container/exec/ "Docker Exec") - A common command; this documentation shows the use of the exec function and running shell commands within Docker
 
+[Dockerize a React/Vite Project](https://www.webdevolution.com/blog/how-to-use-docker-with-react-and-vite/ "Dockerize a React/Vite Project") - This guide provides an overview on creating a basic docker container for a react application
+
 [NGINX Documentation](https://docs.nginx.com/nginx/ "NGINX Documentation") - The documentation for NGINX; includes setting up web servers and proxies
 
 [Serving Multiple Websites with a Single Nginx Server](https://www.youtube.com/watch?v=HWrhSpN4ar0 "Serving Multiple Websites with a Single Nginx Server") - A basic guide on using NGINX proxies to host multiple domains on a single server
