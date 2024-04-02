@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'The DXH Notes'
+title = 'Notes by dxhernandez'
 theme = "dxh-blades"
 
 [menu]
@@ -18,10 +18,10 @@ theme = "dxh-blades"
     url = "about"
 
 [params]
-user = "dxh"
+user = "dxhernandez"
 hostname = "notes"
     [params.author]
-    name = "dxh"  # Website and RSS feed author
+    name = "dxhernandez"  # Website and RSS feed author
     email = "dylan.x.h.developer@gmail.com"  # RSS feed email address
 
 readingTime = true  # Show reading time on post page
