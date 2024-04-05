@@ -19,5 +19,9 @@ This page contains various resources and documentation to help with Python progr
 
 [Qt for Python](https://doc.qt.io/qtforpython-6/index.html "Qt for Python") - The documentation for using the Qt framework in Python; these resources are for constructing GUI applications in Python
 
+[Django Docs](https://docs.djangoproject.com/ "Django Docs") - The main documentation for using Django
+
+[Django Docs by MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django "Django Docs by MDN Web Docs") - The documentation for Django provided by MDN. 
+
 ------
 
