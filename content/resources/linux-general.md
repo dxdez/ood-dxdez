@@ -23,5 +23,7 @@ This page provides general resources and guides for using linux and common use-c
 
 [GREP Overview](https://www.howtoforge.com/tutorial/linux-grep-command/ "Grep Overview") - An overview of the GREP utility in linux which can be used to locate files and strings within a directory of files
 
+[Checking Directory Size, 3 Methods](https://www.redswitches.com/blog/check-the-size-of-a-directory-in-linux/#:~:text=The%20du%20command%20is%20used,in%20a%20human%2Dreadable%20format. "Checking Directory Size, 3 Methods") - This article shows 3 different ways for analyzing directory size
+
 ------
 
