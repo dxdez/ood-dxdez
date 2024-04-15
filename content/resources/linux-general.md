@@ -25,5 +25,7 @@ This page provides general resources and guides for using linux and common use-c
 
 [Checking Directory Size, 3 Methods](https://www.redswitches.com/blog/check-the-size-of-a-directory-in-linux/#:~:text=The%20du%20command%20is%20used,in%20a%20human%2Dreadable%20format. "Checking Directory Size, 3 Methods") - This article shows 3 different ways for analyzing directory size
 
+[System Cleanup, Fedora/RHEL](https://developers.redhat.com/blog/2020/12/10/how-to-clean-up-the-fedora-root-folder# "System Cleanup, Fedora/RHEL") - This article provides some common solutions for cleaning up diskspace such as pruning non-used docker images, clearing unused kernels and querying large folders for bloat
+
 ------
 
