@@ -33,7 +33,5 @@ These resources are for the hosting, the user of NGINX and the use of Docker on 
 
 [Mirroring from Gitlab to Github](https://dev.to/dmitry-kabanov/how-to-mirror-gitlab-repo-to-github-5835 "Mirroring from Gitlab to Github") - A similar article to the one above but with a focus on making a connection from Gitlab to Github.
 
-[Mirroring from Gitlab to Github](https://dev.to/dmitry-kabanov/how-to-mirror-gitlab-repo-to-github-5835 "Mirroring from Gitlab to Github") - A similar article to the one above but with a focus on making a connection from Gitlab to Github.
-
 ------
 
