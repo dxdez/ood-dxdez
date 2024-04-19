@@ -27,5 +27,7 @@ This page provides general resources and guides for using linux and common use-c
 
 [System Cleanup, Fedora/RHEL](https://developers.redhat.com/blog/2020/12/10/how-to-clean-up-the-fedora-root-folder# "System Cleanup, Fedora/RHEL") - This article provides some common solutions for cleaning up diskspace such as pruning non-used docker images, clearing unused kernels and querying large folders for bloat
 
+[Making Executable Files in Linux](https://gcore.com/learning/how-to-make-file-executable-in-linux/ "Making Executable Files in Linux") - This article provides guidance on executing files in Linux
+
 ------
 
