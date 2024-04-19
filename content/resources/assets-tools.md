@@ -11,6 +11,8 @@ This page contains resources which can be used for the generation of application
 
 [SVG Pro](https://www.svgrepo.com/ "SVG Pro") - Search, explore and edit the best-fitting free icons or vectors for your projects using a wide variety vector library. 
 
+[Cloud Converter](https://cloudconvert.com/ "Cloud Converter") - A resource that allows various file formats to be converted into a different format (i.e. png to ico)
+
 [Extends Class Developer Tools](https://extendsclass.com/ "Extends Class Developer Tools") - A collection of tools for developers to help with formatting and organizing code.
 
 [Replit](https://replit.com/ "Replit") - A platform for quickly putting together applications without the overhead of setting up servers and runtimes; very good for prototyping.
