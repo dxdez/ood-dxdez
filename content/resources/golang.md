@@ -58,6 +58,7 @@ This page provides general resources and guides for using the GO programming lan
 [Sample House Hunting Application in GO](https://www.willem.dev/articles/example-web-application-project/ "Sample House Hunting Application in GO") - A documented example project in GO using as much of the standard library as possible
 
 [GOLang Practice Projects](https://zerotomastery.io/blog/golang-practice-projects/ "GOLang Practice Projects") - Some sample projects provided by Zero to Mastery to help understand and improve upon existing golang experience.
+
 ------
 
 Additional projects to look at for contribution and study:
