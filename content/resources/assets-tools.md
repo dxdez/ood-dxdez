@@ -44,3 +44,6 @@ This page contains resources which can be used for the generation of application
 [LMMS Repo](https://github.com/LMMS/lmms "LMMS Repo") - The Github repository for LMMS
 
 [Porkbun](https://porkbun.com/ "Porkbun") - A domain name registrar with lower prices on domain registrations and renewals.
+
+[Hugo Mini Course](https://hugo-mini-course.netlify.app/ "Hugo Mini Course") - A mini overview on how to get started with the HUGO static site generator
+
