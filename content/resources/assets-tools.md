@@ -47,3 +47,6 @@ This page contains resources which can be used for the generation of application
 
 [Hugo Mini Course](https://hugo-mini-course.netlify.app/ "Hugo Mini Course") - A mini overview on how to get started with the HUGO static site generator
 
+[Hugo SEO Best Practices](https://cloudcannon.com/tutorials/hugo-seo-best-practices/ "Hugo SEO Best Practices") - An overview on setting up the essential attributes on a HUGO site for optimal SEO
+
+
