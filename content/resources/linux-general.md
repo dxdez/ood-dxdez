@@ -29,5 +29,7 @@ This page provides general resources and guides for using linux and common use-c
 
 [Making Executable Files in Linux](https://gcore.com/learning/how-to-make-file-executable-in-linux/ "Making Executable Files in Linux") - This article provides guidance on executing files in Linux
 
+[Linux Handbook](https://linuxhandbook.com/ "Linux Handbook") - A helpful site with a variety of articles on maintaining a linux server and setting up a devops pipeline on linux
+
 ------
 
