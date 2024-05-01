@@ -25,6 +25,12 @@ This page contains resources which can be used for the generation of application
 
 [Geeks for Geeks](https://www.geeksforgeeks.org/ "Geeks for Geeks") - A resource for develoeprs which include various articles, guides on data structures and video tutorials on various subjects.
 
+[FreeSound](https://freesound.org/ "FreeSound") - Free audio resources that can be used for games
+
+[sfxr](https://drpetter.se/project_sfxr.html "sfxr") - Legacy software that can be used to generate some new sounds
+
+[ChipTone](https://sfbgames.itch.io/chiptone "ChipTone") - Online resource for generating simple wave files for sound effects
+
 ------
 
 [Upstash](https://upstash.com/?utm_source=theo_qstash "Upstash") - Serverless Data Platform
@@ -48,5 +54,9 @@ This page contains resources which can be used for the generation of application
 [Hugo Mini Course](https://hugo-mini-course.netlify.app/ "Hugo Mini Course") - A mini overview on how to get started with the HUGO static site generator
 
 [Hugo SEO Best Practices](https://cloudcannon.com/tutorials/hugo-seo-best-practices/ "Hugo SEO Best Practices") - An overview on setting up the essential attributes on a HUGO site for optimal SEO
+
+------
+
+[Perplexity AI](https://www.perplexity.ai/ "Perplexity AI") - An AI tool similar to ChatGPT
 
 
