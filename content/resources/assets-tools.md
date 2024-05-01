@@ -25,6 +25,12 @@ This page contains resources which can be used for the generation of application
 
 [Geeks for Geeks](https://www.geeksforgeeks.org/ "Geeks for Geeks") - A resource for develoeprs which include various articles, guides on data structures and video tutorials on various subjects.
 
+[FreeSound](https://freesound.org/ "FreeSound") - Free audio resources that can be used for games
+
+[sfxr](https://drpetter.se/project_sfxr.html "sfxr") - Legacy software that can be used to generate some new sounds
+
+[ChipTone](https://sfbgames.itch.io/chiptone "ChipTone") - Online resource for generating simple wave files for sound effects
+
 ------
 
 [Upstash](https://upstash.com/?utm_source=theo_qstash "Upstash") - Serverless Data Platform
