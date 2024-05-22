@@ -21,5 +21,7 @@ This page covers the resources for the Laravel framework. Laravel is a framework
 
 [Laravel + Docker Starter Project](https://github.com/ishaqadhel/docker-laravel-mysql-nginx-starter/tree/main "Laravel + Docker Starter Project") - A starter template for a laravel project that makes use of docker with nginx and sql services.
 
+[Laravel Jenkins Pipeline Example](https://dev.to/kennibravo/pipeline-101-for-php-and-laravel-projects-with-jenkins-and-docker-47gh "Laravel Jenkins Pipeline Example") - An example of a php laravel project that is deployed using a jenkins pipeline via docker
+
 ------
 
