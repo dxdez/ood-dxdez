@@ -29,6 +29,8 @@ These resources are for the hosting, the user of NGINX and the use of Docker on 
 
 #### Git, SQLite and Misc Resources
 
+[Basic Rocky Linux LAMP Setup](https://tonyteaches.tech/rocky-linux-lamp/ "Basic Rocky Linux LAMP Setup")
+
 [Repository mirroring](https://docs.gitlab.com/ee/user/project/repository/mirror/ "Repository mirroring") - You can mirror a repository to and from external sources. You can select which repository serves as the source. Branches, tags, and commits are synced automatically.
 
 [Mirroring from Gitlab to Github](https://dev.to/dmitry-kabanov/how-to-mirror-gitlab-repo-to-github-5835 "Mirroring from Gitlab to Github") - A similar article to the one above but with a focus on making a connection from Gitlab to Github.
@@ -40,6 +42,8 @@ These resources are for the hosting, the user of NGINX and the use of Docker on 
 [Wordpress Linux Basic Setup](https://ciq.com/blog/how-to-install-wordpress-on-rocky-linux/ "Wordpress Linux Basic Setup") - A basic setup for Wordpress on Linux
 
 [Wordpress Setup with Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose "Wordpress Setup with Docker Compose") - A guide on using docker compose to streamline the process of setting up your preferred stack and installing WordPress
+
+[Rocky Linux Wordpress Lamp Setup](https://tonyteaches.tech/rocky-linux-wordpress-lamp/ "Rocky Linux Wordpress Lamp Setup")
 
 [Resolving FTP Issues with Wordpress](https://ca.godaddy.com/help/fix-wordpress-asking-for-ftp-credentials-19516 "Resolving FTP Issues with Wordpress")
 

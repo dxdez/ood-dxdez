@@ -55,6 +55,8 @@ This page contains resources which can be used for the generation of application
 
 [Hugo SEO Best Practices](https://cloudcannon.com/tutorials/hugo-seo-best-practices/ "Hugo SEO Best Practices") - An overview on setting up the essential attributes on a HUGO site for optimal SEO
 
+[Hugo Layouts](https://cloudcannon.com/tutorials/hugo-beginner-tutorial/layouts-in-hugo/ "Hugo Layouts") - A brief overview on the setup of layouts in HUGO
+
 ------
 
 [Perplexity AI](https://www.perplexity.ai/ "Perplexity AI") - An AI tool similar to ChatGPT
