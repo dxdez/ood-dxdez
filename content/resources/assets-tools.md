@@ -31,6 +31,8 @@ This page contains resources which can be used for the generation of application
 
 [ChipTone](https://sfbgames.itch.io/chiptone "ChipTone") - Online resource for generating simple wave files for sound effects
 
+[Programming Benchmarks](https://programming-language-benchmarks.vercel.app "Programming Benchmarks") - Online resource for comparing various programming benchmarks
+
 ------
 
 [Upstash](https://upstash.com/?utm_source=theo_qstash "Upstash") - Serverless Data Platform
