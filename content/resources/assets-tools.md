@@ -9,6 +9,12 @@ This page contains resources which can be used for the generation of application
 
 ------
 
+[PicoCSS](https://picocss.com/) - Minimal CSS Framework for Semantic HTML
+
+[BeerCSS(https://www.beercss.com/) - Build material design interfaces in record time
+
+------
+
 [SVG Pro](https://www.svgrepo.com/ "SVG Pro") - Search, explore and edit the best-fitting free icons or vectors for your projects using a wide variety vector library. 
 
 [Cloud Converter](https://cloudconvert.com/ "Cloud Converter") - A resource that allows various file formats to be converted into a different format (i.e. png to ico)
