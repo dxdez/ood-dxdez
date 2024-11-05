@@ -37,6 +37,8 @@ This page contains resources which can be used for the generation of application
 
 [ChipTone](https://sfbgames.itch.io/chiptone "ChipTone") - Online resource for generating simple wave files for sound effects
 
+[FamiTracker](http://www.famitracker.com/links.php "FamiTracker") - An additional audio resources for creating audio files
+
 [Programming Benchmarks](https://programming-language-benchmarks.vercel.app "Programming Benchmarks") - Online resource for comparing various programming benchmarks
 
 ------
