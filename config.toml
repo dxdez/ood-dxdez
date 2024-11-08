@@ -18,10 +18,10 @@ theme = "dxh-blades"
     url = "about"
 
 [params]
-user = "dxhernandez"
+user = "dxdez"
 hostname = "notes"
     [params.author]
-    name = "dxhernandez"  # Website and RSS feed author
+    name = "dxdez"  # Website and RSS feed author
     email = "dylan.x.h.developer@gmail.com"  # RSS feed email address
 
 readingTime = true  # Show reading time on post page
@@ -30,12 +30,12 @@ published = true  # Show published data on post page
 [[params.social]]
 key = 0
 name = "github"
-url = "https://github.com/dylanxhernandez"
+url = "https://github.com/dxdez"
 
 [[params.social]]
 key = 1
 name = "linkedin"
-url = "https://linkedin.com/in/dxhernandez/"
+url = "https://linkedin.com/in/dxdez/"
 
 [[params.social]]
 key = 2
